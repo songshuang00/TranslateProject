@@ -1,4 +1,5 @@
-Translating by songahuang
+Translating by songahuang00
+
 What is Kubernetes?
 ============================================================
 
